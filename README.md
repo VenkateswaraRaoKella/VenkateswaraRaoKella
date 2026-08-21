@@ -29,8 +29,6 @@
 
 ### 🥇 5-Stage RISC-V Pipelined CPU
 
-**Highest-priority project**
-
 A complete RTL-based processor project demonstrating practical understanding of processor microarchitecture and digital design.
 
 * Implemented **IF, ID, EX, MEM & WB** pipeline stages
