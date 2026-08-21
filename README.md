@@ -1,3 +1,14 @@
+<div align="center">
+
+<img src="https://github.com/VenkateswaraRaoKella.png" width="150" height="150" style="border-radius:50%;" alt="Venkateswara Rao Kella"/>
+
+👋 Hi, I'm Venkateswara Rao Kella
+Aspiring ASIC Design Intern | RTL Design Intern | VLSI Engineer
+
+RTL Design • RISC-V • ASIC Design • Computer Architecture • Semiconductor Hardware
+
+</div>
+
 # 💫 About Me:
 
 🎓 Electronics & Communication Engineering student focused on **ASIC Design, RTL Design, VLSI & Semiconductor Engineering**<br>
