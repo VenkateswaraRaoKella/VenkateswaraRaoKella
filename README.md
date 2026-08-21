@@ -1,189 +1,221 @@
 # 💫 About Me:
 
-🎓 Electronics & Communication Engineering student focused on **ASIC Design, VLSI & Semiconductor Engineering**<br>
-💻 Building and analyzing **RTL designs using Verilog/SystemVerilog**<br>
-🖥️ Designed a **5-Stage RISC-V Pipelined Processor**<br>
-⚙️ Learning and implementing the **RTL-to-GDSII ASIC Design Flow**<br>
-🔬 Exploring **RTL Verification, Digital Design & Computer Architecture**<br>
-🏭 Working with open-source ASIC tools including **Yosys, OpenLane, OpenROAD & KLayout**<br>
-🚀 Interested in **RISC-V, AI Accelerators, Hardware Acceleration & Processor Design**<br>
-🎯 Seeking opportunities in **ASIC / RTL Design / VLSI / Semiconductor Engineering**
+🎓 Electronics & Communication Engineering student focused on **ASIC Design, RTL Design, VLSI & Semiconductor Engineering**<br>
+💻 Aspiring **ASIC Design Intern / RTL Design Intern** with hands-on experience building digital hardware using **Verilog/SystemVerilog**<br>
+🖥️ Designed a **5-Stage RISC-V Pipelined CPU** with pipeline stages, forwarding, hazards and branch handling<br>
+⚙️ Learning and implementing the **RTL-to-GDSII ASIC Design Flow** using open-source EDA tools<br>
+🔬 Building practical experience in **Digital Design, Computer Architecture, RTL Verification & Hardware Design**<br>
+🏭 Exploring **Synthesis, Physical Design, Floorplanning, Placement, Routing and Layout**<br>
+🚀 Interested in **GPU/AI Hardware, RISC-V, AI Accelerators, Hardware Acceleration & Processor Microarchitecture**<br>
+🎯 Preparing for **ASIC / RTL / Digital Design / Semiconductor Hardware Internships**
 
 ## 🧠 Current Focus:
 
-🔹 RTL Design & Digital Logic  
-🔹 Verilog / SystemVerilog  
-🔹 RISC-V Processor Architecture  
-🔹 5-Stage Pipeline & Hazard Handling  
-🔹 RTL Verification & Testbench Development  
-🔹 Synthesis & Static Timing Analysis  
-🔹 Floorplanning, Placement & Routing  
-🔹 RTL-to-GDSII ASIC Flow  
-🔹 Physical Design & Layout Visualization  
-🔹 Computer Architecture  
-🔹 RISC-V & AI Accelerator Hardware
+🔹 RTL Design & Digital Logic
+🔹 Verilog / SystemVerilog
+🔹 RISC-V Processor Architecture
+🔹 5-Stage Pipelined Processor Design
+🔹 Data Hazards & Forwarding
+🔹 Branch Handling & Control Logic
+🔹 RTL Verification & Testbench Development
+🔹 Synthesis & Static Timing Analysis
+🔹 RTL-to-GDSII ASIC Flow
+🔹 Floorplanning, Placement & Routing
+🔹 Physical Design & Layout Visualization
+🔹 Computer Architecture
+🔹 AI / GPU Hardware & Accelerators
 
-## 🛠️ Hardware & ASIC Tools:
+## 🚀 Featured Projects
 
-![Verilog](https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A1A1A?style=for-the-badge&logoColor=white)
-![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white)
-![Yosys](https://img.shields.io/badge/Yosys-4B0082?style=for-the-badge&logoColor=white)
-![OpenLane](https://img.shields.io/badge/OpenLane-222222?style=for-the-badge&logoColor=white)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-006400?style=for-the-badge&logoColor=white)
-![KLayout](https://img.shields.io/badge/KLayout-00599C?style=for-the-badge&logoColor=white)
-![GTKWave](https://img.shields.io/badge/GTKWave-333333?style=for-the-badge&logoColor=white)
+### 🥇 5-Stage RISC-V Pipelined CPU
 
-## 💻 Programming & Development:
+**Highest-priority project**
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+A complete RTL-based processor project demonstrating practical understanding of processor microarchitecture and digital design.
 
-# 🚀 Projects:
+* Implemented **IF, ID, EX, MEM & WB** pipeline stages
+* Implemented RISC-V instruction execution
+* Worked with **R-type, I-type, LW, SW and BEQ instructions**
+* Implemented **load-use hazard handling**
+* Implemented **EX/MEM and MEM/WB forwarding**
+* Verified **taken and not-taken branch conditions**
+* Developed simulation testbenches and waveform-based debugging
+* Synthesized and explored the design through the ASIC flow
 
-## 🥇 5-Stage RISC-V Pipelined CPU
-
-**Repository:** `5_stage_pipelined_RISCV_CPU`
-
-- Designed a **5-stage RISC-V pipelined processor** using RTL
-- Implemented **IF, ID, EX, MEM & WB** pipeline stages
-- Implemented instruction execution and control logic
-- Worked with **data hazards and forwarding**
-- Implemented **EX/MEM and MEM/WB forwarding**
-- Handled **load-use hazards**
-- Implemented **BEQ taken and not-taken scenarios**
-- Developed simulation and verification testbenches
-- Analyzed waveforms using **GTKWave**
-- Synthesized the RTL and explored ASIC implementation
-- Working toward a complete **RTL-to-GDSII implementation**
-
-**Key Areas:** `RISC-V` `RTL Design` `Pipelining` `Hazards` `Forwarding` `Computer Architecture` `ASIC`
+**Skills:** `Verilog` `RTL Design` `RISC-V` `CPU Architecture` `Pipelining` `Hazard Handling` `Forwarding` `Verification`
 
 ---
 
-## 🥈 Synchronous FIFO
+### 🥈 Synchronous FIFO
 
-**Repository:** `Synchronous-FIFO`
+Designed and verified a synchronous FIFO, providing hands-on experience with an important hardware building block used in data buffering and hardware systems.
 
-- Designed a synchronous FIFO using Verilog
-- Implemented read/write control logic
-- Designed **full and empty flag generation**
-- Worked with FIFO status management
-- Developed simulation testbenches
-- Analyzed RTL behavior using waveforms
-- Explored structured verification concepts
+* Designed synchronous FIFO RTL
+* Implemented **read/write control**
+* Implemented **full/empty status logic**
+* Developed testbench-based functional verification
+* Analyzed simulation waveforms
+* Explored structured SystemVerilog verification concepts
 
-**Key Areas:** `RTL Design` `FIFO` `Digital Design` `Verification` `Verilog`
-
----
-
-## 🥉 SPI Controller — Verilog
-
-**Repository:** `SPI-Verilog`
-
-- Implemented an **SPI communication interface** using Verilog
-- Designed serial data transfer logic
-- Worked with clocked sequential logic and control signals
-- Developed RTL simulation and verification
-- Analyzed communication waveforms
-
-**Key Areas:** `RTL Design` `SPI` `Serial Communication` `Verilog`
+**Skills:** `Verilog` `SystemVerilog` `RTL Design` `FIFO` `Digital Design` `Verification`
 
 ---
 
-## 🔹 UART — Verilog
+### 🥉 SPI-Verilog
 
-**Repository:** `UART-Verilog`
+RTL implementation of the **SPI communication protocol**, focusing on serial data transfer and synchronous digital control.
 
-- Designed UART communication logic using Verilog
-- Implemented serial **transmit and receive** functionality
-- Worked with baud-rate related timing concepts
-- Developed and simulated RTL
-- Verified serial communication behavior using waveforms
+* Designed SPI-related RTL logic
+* Worked with serial data transmission
+* Implemented clock/control sequencing
+* Verified protocol behavior using simulation
 
-**Key Areas:** `RTL Design` `UART` `Serial Communication` `Verilog`
-
----
-
-## 🔹 Traffic Light Controller with Sensor
-
-**Repository:** `Traffic-Light-Controller-with-Sensor`
-
-- Designed a sensor-based traffic light controller
-- Implemented control logic using sequential RTL
-- Worked with traffic states and transitions
-- Integrated sensor inputs into the control logic
-- Verified different operating conditions through simulation
-
-**Key Areas:** `FSM` `RTL Design` `Control Logic` `Sensors` `Verilog`
+**Skills:** `Verilog` `RTL` `SPI` `Digital Design` `Serial Communication`
 
 ---
 
-## 🔹 Finite State Machine
+### 🔹 UART-Verilog
 
-**Repository:** `Finite-State-Machine`
+RTL implementation of a **UART communication interface**.
 
-- Implemented finite state machines using Verilog
-- Designed state transition and output logic
-- Practiced **Moore / Mealy style control logic**
-- Verified state transitions through simulation
+* Designed UART transmitter/receiver logic
+* Worked with serial data transmission
+* Implemented timing and control logic
+* Verified functionality through simulation
 
-**Key Areas:** `FSM` `Sequential Logic` `Control Logic` `Verilog`
-
----
-
-## 🔹 HDLBits Solutions
-
-**Repository:** `HDL-Bits-Solutions`
-
-- Solved digital design problems using Verilog
-- Practiced combinational and sequential logic
-- Worked with registers, counters, multiplexers and FSMs
-- Strengthened RTL coding fundamentals
-- Used HDLBits problems to improve hardware design skills
-
-**Key Areas:** `Verilog` `RTL` `Digital Logic` `Problem Solving`
+**Skills:** `Verilog` `RTL` `UART` `Digital Design` `Communication Interfaces`
 
 ---
 
-## 🔹 Verilog Fundamentals
+### 🔹 Finite-State Machine
 
-**Repository:** `Verilog-fundamentals`
+Implemented digital systems using **Finite-State Machine architecture**.
 
-- Practiced fundamental Verilog concepts
-- Implemented basic combinational and sequential circuits
-- Worked with modules, ports, operators and procedural blocks
-- Built foundational RTL design knowledge
+* Designed state-transition logic
+* Implemented sequential and combinational control logic
+* Developed and simulated FSM-based hardware
+* Strengthened understanding of control-path RTL design
 
-**Key Areas:** `Verilog` `RTL` `Digital Logic` `HDL`
+**Skills:** `Verilog` `FSM` `RTL Design` `Control Logic` `Digital Design`
 
 ---
 
-# 🏭 ASIC Design Flow
+### 🔹 Traffic Light Controller with Sensor
 
-Currently exploring the complete **RTL-to-GDSII flow**:
+Designed a sensor-controlled digital traffic-light system using FSM-based RTL.
 
-```text
-RTL Design
-    ↓
-Functional Simulation
-    ↓
-Logic Synthesis
-    ↓
-Floorplanning
-    ↓
-Power Planning
-    ↓
-Placement
-    ↓
-Clock Tree Synthesis
-    ↓
-Routing
-    ↓
-Physical Verification
-    ↓
-GDSII
+* Implemented state-based control
+* Integrated sensor inputs
+* Designed timing/control behavior
+* Verified state transitions through simulation
+
+**Skills:** `Verilog` `FSM` `RTL` `Control Systems` `Digital Logic`
+
+---
+
+### 🔹 HDLBits Solutions
+
+Collection of solutions to digital-design and Verilog problems from **HDLBits**.
+
+* Practiced combinational logic
+* Practiced sequential logic
+* Designed counters, registers and multiplexers
+* Worked with FSMs and Verilog constructs
+* Strengthened RTL coding fundamentals
+
+**Skills:** `Verilog` `RTL` `Digital Logic` `Problem Solving`
+
+---
+
+### 🔹 Verilog Fundamentals
+
+Repository containing fundamental Verilog HDL implementations and practice designs.
+
+* Basic combinational circuits
+* Sequential logic
+* Registers and counters
+* Multiplexers and logic structures
+* Verilog syntax and RTL modeling
+
+**Skills:** `Verilog` `HDL` `Digital Logic` `RTL Fundamentals`
+
+---
+
+## 🏭 ASIC Design & Physical Design
+
+Currently expanding from RTL design toward complete ASIC implementation:
+
+**RTL Design**
+↓
+**Functional Simulation**
+↓
+**Logic Synthesis**
+↓
+**Floorplanning**
+↓
+**Placement**
+↓
+**Clock Tree Synthesis**
+↓
+**Routing**
+↓
+**Static Timing Analysis**
+↓
+**Physical Verification**
+↓
+**GDSII**
+
+Exploring open-source ASIC tools including:
+
+![Yosys](https://img.shields.io/badge/Yosys-4B0082?style=for-the-badge\&logoColor=white)
+![OpenLane](https://img.shields.io/badge/OpenLane-222222?style=for-the-badge\&logoColor=white)
+![OpenROAD](https://img.shields.io/badge/OpenROAD-006400?style=for-the-badge\&logoColor=white)
+![KLayout](https://img.shields.io/badge/KLayout-00599C?style=for-the-badge\&logoColor=white)
+![GTKWave](https://img.shields.io/badge/GTKWave-333333?style=for-the-badge\&logoColor=white)
+
+## 🛠️ Hardware & RTL
+
+![Verilog](https://img.shields.io/badge/Verilog-1A1A1A?style=for-the-badge\&logo=verilog\&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1A1A1A?style=for-the-badge\&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-283272?style=for-the-badge\&logo=riscv\&logoColor=white)
+
+`RTL Design` • `Digital Logic` • `Computer Architecture` • `Processor Design` • `FSM` • `FIFO` • `SPI` • `UART`
+
+## 💻 Programming & Development
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+## 🎯 Career Direction
+
+### Aspiring ASIC Design Intern | RTL Design Intern
+
+Building toward hardware engineering roles involving:
+
+`RTL Design` • `ASIC Design` • `Digital Design` • `Computer Architecture` • `RISC-V` • `Processor Microarchitecture` • `Verification` • `Physical Design` • `AI Hardware` • `Hardware Acceleration`
+
+Particularly interested in **high-performance computing, GPU/AI hardware, accelerator architectures, processor design and semiconductor engineering**.
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-VenkateswaraRaoKella-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/VenkateswaraRaoKella)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkateswara%20Rao%20Kella-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/venkateswara-rao-kella/)
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=VenkateswaraRaoKella\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false)<br/>
+
+![](https://streak-stats.demolab.com/?user=VenkateswaraRaoKella\&theme=dark\&hide_border=false)<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VenkateswaraRaoKella\&theme=dark\&hide_border=false\&include_all_commits=false\&count_private=false\&layout=compact)
+
+---
+
+[![](https://komarev.com/ghpvc/?username=VenkateswaraRaoKella\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
